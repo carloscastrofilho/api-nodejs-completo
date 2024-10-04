@@ -1,4 +1,5 @@
 // iniciliar o projeto backend
+// api simples sem resposta em nenhum verbo
 
 import Fastify from "fastify";
 import cors from "@fastify/cors";

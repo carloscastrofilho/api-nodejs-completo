@@ -1,5 +1,5 @@
 
-tecnologias
+#tecnologias
 nodejs
 mongodb atlas
 primas
